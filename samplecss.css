@@ -1,0 +1,56 @@
+.sam
+{
+
+ background-image:url(https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_960_720.jpg);
+ 
+ //background-position:75%;
+font-family:Lucida Handwriting;
+margin-left:40%;
+margin-top:100px;
+//border-width:5px;
+//border-color:green;
+//border-style:double;
+//border-radius:5px;
+padding:30px;
+width:20%;
+height:500px;
+text-align:center;
+background-color:rgba(200, 135, 214);
+color:rgba(232, 9, 35);
+background-attachment:fixed;
+}
+.clr
+{
+ 
+}
+
+
+.sw
+{
+text-decoration:underline;
+ text-shadow: 1px 1px 1px #ff66ff ,
+               2px 2px 1px #ff66ff;
+background-color:#66b3ff;
+border-radius:10px;
+
+}
+.cl
+{
+color:#ff0066;
+font-weight: bold;
+
+}
+
+
+.button {
+  background-color: #e7e7e7;
+  border-radius:10px;
+box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+  
+         } 
+
+.vc{
+     background-color:#ff5050;
+        border-radius:10px;
+        background-image:url(https://cdn.pixabay.com/photo/2015/10/30/20/13/sunrise-1014712_960_720.jpg);
+}
